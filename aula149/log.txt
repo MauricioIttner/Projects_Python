@@ -1,0 +1,7 @@
+Success: qualquer (LogFileMixin)
+Error: qualquer (LogFileMixin)
+Success: qualquer (LogFileMixin)
+Error: qualquer (LogFileMixin)
+Success: qualquer (LogFileMixin)
+Success: Galaxy S está ligado (Smartphone)
+Success: IPhone está ligado (Smartphone)
