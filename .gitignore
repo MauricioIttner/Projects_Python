@@ -3,6 +3,7 @@ __pycache__
 .mypy_cache
 mysql-data
 .venv
+mysql-202
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
